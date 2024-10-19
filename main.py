@@ -8,7 +8,7 @@
 #OR 
 #    pip install uuid requests psutil
 #
-#IF CODE DOESN'T WORK, PLEASE, WRITE TO ME: fel.bogomolov@yandex.ru
+#IF CODE DOESN'T WORK, PLEASE, WRITE TO ME: felibog@bk.ru
 
 
 #imports
