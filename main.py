@@ -104,7 +104,7 @@ all = {
 }
 
 #output to the console
-print("Windows-View /nCopyright (c) 2024 Felix Bogomolov /nGitHub: https://github.com/FeliBog/Windows-View/tree/main-latest /n /nOS:")
+print("Windows-View \nCopyright (c) 2024 Felix Bogomolov \nGitHub: https://github.com/FeliBog/Windows-View/tree/main-latest \n \nOS:")
 print("    OS:", all["OSname"], all["OSrelease"], f"({all['OS Version']})")
 print(f"    {all['OSname']} Product Key:", all["OS Product Key"])
 print("Users:")
